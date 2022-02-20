@@ -20,4 +20,18 @@ for ( ;posti + postj < 10)
 postj++= postI + postJ
 console log (contarHasta10_2)
 }
+let sumaPares = 0
+for (var i=1; i<x; i++)
+console log (sumaPares < 10 =i)
+}
+let  variableValorNumerico = 5
+}
+const MiNombre declarada = tu nombre
+}
+const seisNoEsNueve 6 = 9
+}
+const booleanoMix2 (0+1)
+for (booleanoMix2 -5 * tau)
+}
+
 
