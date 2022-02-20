@@ -33,5 +33,10 @@ const seisNoEsNueve 6 = 9
 const booleanoMix2 (0+1)
 for (booleanoMix2 -5 * tau)
 }
+var valorSuma (MiNumeroFav + varoiableValorNumerico)
 
-
+var valorResta  (MiNumeroFav - variableValorNumerico)  
+}
+var valorMultiplicación (MiNumeroFav * variableValorNumerico)
+}
+var valorDivisión (MiNumeroFav/3)
