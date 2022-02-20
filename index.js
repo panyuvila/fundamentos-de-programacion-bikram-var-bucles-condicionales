@@ -49,22 +49,23 @@ let preI = 0
 let prej = 0
 while (preI <= 11)
 }
-let contarHasta10 = 0
-while (contarHasta10 < 11) {
-    console.log(contarHasta10)
-    contarHasta10 = contarHasta10 + 1
+contarHasta10 === 10
+let contarHasta10 = 0;
+while(contarHasta10 <10){
+    contarHasta10 === 10;
+    contarHasta10++;
 }
-let prel = 0
-let prej = 0
-for (; prel < 12; prel = prel = ++prej) {
-    console.log(prel)
+et preI = 0;
+let preJ = 0;
+for(let i = 0; i <=10; i++){
+    preI = preI + ++preJ;
+}g(prel)
 }
-let sumalmpares = 0
-for (; sumalmpares < 10; sumalmpares + 1) {
-    if (sumalmpares % 2 ≠≠≠ 0) {
-        sumalmpares + sumalmparess
-    }
-}
+let sumaImpares = 0;
+for(let i = 0; i <10; i++){
+    if(i%2 !== 0){
+        console.log(i)
+        sumaImpares = sumaImpares + i;
   }
 
 
