@@ -40,3 +40,16 @@ var valorResta  (MiNumeroFav - variableValorNumerico)
 var valorMultiplicación (MiNumeroFav * variableValorNumerico)
 }
 var valorDivisión (MiNumeroFav/3)
+}
+let contarHasta10 = 0 
+while(contarHasta10 <10)
+{
+    contarHasta10=contarHasta10++;
+}
+let preI = 0
+let prej = 0
+while (preI <= 11 )
+
+
+
+
