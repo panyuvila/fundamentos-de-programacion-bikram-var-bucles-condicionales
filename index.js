@@ -2,36 +2,36 @@ let variableSinValor()
 }
 let booleano1 = 10 > 9
 }
-let ,booleano2 = 1 > 9
+let, booleano2 = 1 > 9
 }
 const PI = 3.14
-const tau = 2*PI
+const tau = 2 * PI
 }
 const booleanoy = (booleano1 != booleano2')
 }
-let contarHasta10_2  = 0
-for ( ; contarHasta10_2 < 10)
-console log (contarHasta10_2)
+let contarHasta10_2 = 0
+for (; contarHasta10_2 < 10)
+console log(contarHasta10_2)
 contarHasta10_2 = contarHasta10_2 + 1
 }
-let postI  = 0
+let postI = 0
 let postJ = 0
-for ( ;posti + postj < 10)
-postj++= postI + postJ
-console log (contarHasta10_2)
+for (; posti + postj < 10)
+    postj++= postI + postJ
+console log(contarHasta10_2)
 }
 let sumaPares = 0
-for (var i=1; i<x; i++)
-console log (sumaPares < 10 =i)
+for (var i = 1; i < x; i++)
+console log(sumaPares < 10 =i)
 }
-let  variableValorNumerico = 5
+let variableValorNumerico = 5
 }
 const MiNombre declarada = tu nombre
 }
 const seisNoEsNueve 6 = 9
 }
-const booleanoMix2 (0+1)
-for (booleanoMix2 -5 * tau)
+const booleanoMix2 (0 + 1)
+for (booleanoMix2 - 5 * tau)
 }
 var valorSuma (MiNumeroFav + varoiableValorNumerico)
 
@@ -39,17 +39,32 @@ var valorResta  (MiNumeroFav - variableValorNumerico)
 }
 var valorMultiplicación (MiNumeroFav * variableValorNumerico)
 }
-var valorDivisión (MiNumeroFav/3)
+var valorDivisión (MiNumeroFav / 3)
 }
-let contarHasta10 = 0 
-while(contarHasta10 <10)
-{
-    contarHasta10=contarHasta10++;
+let contarHasta10 = 0
+while (contarHasta10 < 10) {
+    contarHasta10 = contarHasta10++;
 }
 let preI = 0
 let prej = 0
-while (preI <= 11 )
-
-
+while (preI <= 11)
+}
+let contarHasta10 = 0
+while (contarHasta10 < 11) {
+    console.log(contarHasta10)
+    contarHasta10 = contarHasta10 + 1
+}
+let prel = 0
+let prej = 0
+for (; prel < 12; prel = prel = ++prej) {
+    console.log(prel)
+}
+let sumalmpares = 0
+for (; sumalmpares < 10; sumalmpares + 1) {
+    if (sumalmpares % 2 ≠≠≠ 0) {
+        sumalmpares + sumalmparess
+    }
+}
+  }
 
 
